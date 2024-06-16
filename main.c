@@ -64,7 +64,7 @@ void drawGrid(float xbase, int n) {
 
 int main(){
 
-    InitWindow(screenW, screenH, "viz");
+    InitWindow(screenW, screenH, "chute");
     SetTargetFPS(60);
 
     setupChute(8, 8);
