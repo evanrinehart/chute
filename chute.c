@@ -12,7 +12,7 @@
 
    speed measured in inches per tick times subticks / 8 = distance in microns
 
-    distance in microns times 480 / speed = time in subticks
+    distance in microns times 8 / speed = time in subticks
 
 */
 
